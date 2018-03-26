@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comfig-service" />
+        <module name="config-client" />
+        <module name="cpforezp" />
+        <module name="discovery" />
+        <module name="eureka-server" />
+        <module name="eureka-server (1) (org.redrock.mysc)" />
+        <module name="eureka-server (2) (com.forezp)" />
+        <module name="feign" />
+        <module name="ribbon" />
+        <module name="server" />
+        <module name="zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comfig-service" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-service" target="1.8" />
+      <module name="cpforezp" target="1.8" />
+      <module name="discovery" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1) (com.forezp)" target="1.8" />
+      <module name="eureka-server (1) (org.redrock.mysc)" target="1.8" />
+      <module name="eureka-server (2) (com.forezp)" target="1.8" />
+      <module name="feign" target="1.8" />
+      <module name="ribbon" target="1.8" />
+      <module name="server" target="1.8" />
+      <module name="zuul" target="1.8" />
+      <module name="zuul-t" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

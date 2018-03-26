@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-service/comfig-service.iml" filepath="$PROJECT_DIR$/config-service/comfig-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpDiscovery/cpforezp.iml" filepath="$PROJECT_DIR$/cpDiscovery/cpforezp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mylearning.iml" filepath="$PROJECT_DIR$/.idea/mylearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-server/server.iml" filepath="$PROJECT_DIR$/springcloud-server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul/zuul.iml" filepath="$PROJECT_DIR$/service-zuul/zuul.iml" />
+    </modules>
+  </component>
+</project>
